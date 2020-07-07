@@ -141,7 +141,7 @@
     "framework7": "^5.0.4",
     "framework7-icons": "^3.0.0",
     "framework7-react": "^5.0.4",
-    "npm": "^6.12.0",
+    "npm": "^6.14.6",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
